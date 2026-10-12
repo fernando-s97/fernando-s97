@@ -5,13 +5,15 @@
 
 # Hey, I'm Fernando 👋
 
-I'm a Senior Flutter Engineer focused on architecture, resilient tests, and software that's easier to evolve.
+**Flutter on the surface. Thoughtful engineering underneath.**
 
-## What I care about
+I build with Flutter, automate the repetitive work, and care about what happens beyond the happy path.
 
-- Flutter and Dart
-- Domain modeling and clear architectural boundaries
-- Tests that check meaningful behavior
-- Automation and AI-assisted development
-
-Happy paths are only half the story.
+```dart
+const focus = (
+  modeling: 'domain first',
+  architecture: 'clear boundaries',
+  tests: 'meaningful behavior',
+  workflow: 'automation + AI',
+);
+```
