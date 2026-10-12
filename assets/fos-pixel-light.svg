@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="310" viewBox="0 0 960 310" role="img" aria-labelledby="title desc">
+<title id="title">FOS · Senior Flutter Engineer</title>
+<desc id="desc">The original FOS wordmark beside modular code brackets, a playful bouncing block, and a small Breakout paddle.</desc>
+<rect width="960" height="310" fill="#F7FAF9"/>
+<svg id="fos-logo" x="48" y="35" width="242" height="83" viewBox="18.997848443323 13 308.937103113354 106"><g xmlns="http://www.w3.org/2000/svg" transform="translate(18 16) scale(1.0)" fill="#095F43" color="#095F43"><g transform="matrix(1 0 -0.249328 1 24.9328 0)"><path d="M5 0H65Q70 0 70 5V13Q70 18 65 18H25Q20 18 20 23V37Q20 42 25 42H57Q62 42 62 47V55Q62 60 57 60H25Q20 60 20 65V95Q20 100 15 100H5Q0 100 0 95V5Q0 0 5 0Z" /><path d="M119.0000 9.0000L119.0000 9.0000Q119.0000 0.0000 112.6360 6.3640L85.3640 33.6360Q79.0000 40.0000 79.0000 49.0000L79.0000 51.0000Q79.0000 60.0000 85.3640 66.3640L112.6360 93.6360Q119.0000 100.0000 119.0000 91.0000L119.0000 84.0000Q119.0000 75.0000 112.6360 68.6360L100.3640 56.3640Q94.0000 50.0000 100.3640 43.6360L112.6360 31.3640Q119.0000 25.0000 119.0000 16.0000Z" /><rect x="130" y="-3" width="13" height="106" rx="6.5" /><path d="M161.3640 6.3640L161.3640 6.3640Q155.0000 0.0000 155.0000 9.0000L155.0000 16.0000Q155.0000 25.0000 161.3640 31.3640L173.6360 43.6360Q180.0000 50.0000 173.6360 56.3640L161.3640 68.6360Q155.0000 75.0000 155.0000 84.0000L155.0000 91.0000Q155.0000 100.0000 161.3640 93.6360L188.6360 66.3640Q195.0000 60.0000 195.0000 51.0000L195.0000 49.0000Q195.0000 40.0000 188.6360 33.6360Z" /><path d="M281 0Q286 0 286 5V14Q286 19 281 19H243Q232 19 232 29V32Q232 42 243 42H260Q287 42 287 69V73Q287 100 260 100H216Q211 100 211 95V86Q211 81 216 81H257Q267 81 267 71V69Q267 59 257 59H239Q212 59 212 33V27Q212 0 239 0Z" /></g></g></svg>
+<text x="48" y="192" font-family="Arial, Helvetica, sans-serif" font-size="49" font-weight="700" letter-spacing="-2" fill="#14252A">Senior Flutter</text>
+<text x="48" y="248" font-family="Arial, Helvetica, sans-serif" font-size="49" font-weight="700" letter-spacing="-2" fill="#095F43">Engineer</text>
+<rect x="558" y="148" width="23" height="23" rx="3" fill="#095F43"/>
+<rect x="585" y="121" width="23" height="23" rx="3" fill="#095F43"/>
+<rect x="585" y="175" width="23" height="23" rx="3" fill="#095F43"/>
+<rect x="612" y="94" width="23" height="23" rx="3" fill="#095F43"/>
+<rect x="612" y="202" width="23" height="23" rx="3" fill="#095F43"/>
+<rect x="639" y="67" width="23" height="23" rx="3" fill="#095F43"/>
+<rect x="639" y="229" width="23" height="23" rx="3" fill="#095F43"/>
+<rect x="666" y="229" width="23" height="23" rx="3" fill="#095F43"/>
+<rect x="693" y="175" width="23" height="23" rx="3" fill="#095F43"/>
+<rect x="693" y="202" width="23" height="23" rx="3" fill="#095F43"/>
+<rect x="720" y="121" width="23" height="23" rx="3" fill="#095F43"/>
+<rect x="720" y="148" width="23" height="23" rx="3" fill="#095F43"/>
+<rect x="747" y="67" width="23" height="23" rx="3" fill="#095F43"/>
+<rect x="747" y="94" width="23" height="23" rx="3" fill="#095F43"/>
+<rect x="801" y="67" width="23" height="23" rx="3" fill="#095F43"/>
+<rect x="801" y="229" width="23" height="23" rx="3" fill="#095F43"/>
+<rect x="828" y="94" width="23" height="23" rx="3" fill="#095F43"/>
+<rect x="828" y="202" width="23" height="23" rx="3" fill="#095F43"/>
+<rect x="855" y="121" width="23" height="23" rx="3" fill="#095F43"/>
+<rect x="855" y="175" width="23" height="23" rx="3" fill="#095F43"/>
+<rect x="882" y="148" width="23" height="23" rx="3" fill="#095F43"/>
+<path d="M532 58 Q654 14 770 42 T915 20" fill="none" stroke="#095F43" stroke-opacity="0.4" stroke-width="3" stroke-linecap="round" stroke-dasharray="1 12"/>
+<rect x="773" y="23" width="19" height="19" rx="3" transform="rotate(24 782 32)" fill="#095F43"/>
+<rect x="531" y="176" width="16" height="16" rx="2" fill="#095F43" opacity="0.12"/>
+<rect x="916" y="210" width="16" height="16" rx="2" fill="#095F43" opacity="0.18"/>
+<rect x="810" y="275" width="80" height="6" rx="3" fill="#095F43"/>
+<path d="M48 286 H465" stroke="#095F43" stroke-opacity="0.2"/>
+</svg>
