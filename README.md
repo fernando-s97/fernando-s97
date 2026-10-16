@@ -30,20 +30,3 @@ I work across **apps, automation, websites, subtitles, and translation**.
 - **Automation & AI**: connect steps, reduce manual work, and check the output.
 
 </details>
-
-<details>
-<summary><b>One last check… 🐛</b></summary>
-
-A tiny example of why I check the result, too:
-
-```text
-✓ job finished
-✓ file created
-  file contents: ""
-```
-
-Well, that's technically a file.
-
-A successful run is a start. The output still needs to do the job.
-
-</details>
