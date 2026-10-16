@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="520" viewBox="0 0 480 520" role="img" aria-labelledby="title desc">
+  <title id="title">FOS — This could be easier.</title>
+  <desc id="desc">A tangled line leads into a sketch, then a useful app. A small yellow piece settles into place once; reduced-motion preferences keep it still.</desc>
+  <defs><pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#34513F"/></pattern></defs>
+  <rect width="480" height="520" rx="20" fill="#101F19"/>
+<style>
+    .last-piece { animation: settle 1.6s ease-out 1; transform-box: fill-box; transform-origin: center; }
+    @keyframes settle { from { opacity: 0; translate: -12px -8px; rotate: -20deg; } to { opacity: 1; translate: 0 0; rotate: 0deg; } }
+    @media (prefers-reduced-motion: reduce) { .last-piece { animation: none; } }
+  </style><svg id="fos-logo" x="38" y="30" width="144" height="50" viewBox="18.997848443323 13 308.937103113354 106"><g xmlns="http://www.w3.org/2000/svg" transform="translate(18 16) scale(1.0)" fill="#7ADEAD" color="#7ADEAD"><g transform="matrix(1 0 -0.249328 1 24.9328 0)"><path d="M5 0H65Q70 0 70 5V13Q70 18 65 18H25Q20 18 20 23V37Q20 42 25 42H57Q62 42 62 47V55Q62 60 57 60H25Q20 60 20 65V95Q20 100 15 100H5Q0 100 0 95V5Q0 0 5 0Z" /><path d="M119.0000 9.0000L119.0000 9.0000Q119.0000 0.0000 112.6360 6.3640L85.3640 33.6360Q79.0000 40.0000 79.0000 49.0000L79.0000 51.0000Q79.0000 60.0000 85.3640 66.3640L112.6360 93.6360Q119.0000 100.0000 119.0000 91.0000L119.0000 84.0000Q119.0000 75.0000 112.6360 68.6360L100.3640 56.3640Q94.0000 50.0000 100.3640 43.6360L112.6360 31.3640Q119.0000 25.0000 119.0000 16.0000Z" /><rect x="130" y="-3" width="13" height="106" rx="6.5" /><path d="M161.3640 6.3640L161.3640 6.3640Q155.0000 0.0000 155.0000 9.0000L155.0000 16.0000Q155.0000 25.0000 161.3640 31.3640L173.6360 43.6360Q180.0000 50.0000 173.6360 56.3640L161.3640 68.6360Q155.0000 75.0000 155.0000 84.0000L155.0000 91.0000Q155.0000 100.0000 161.3640 93.6360L188.6360 66.3640Q195.0000 60.0000 195.0000 51.0000L195.0000 49.0000Q195.0000 40.0000 188.6360 33.6360Z" /><path d="M281 0Q286 0 286 5V14Q286 19 281 19H243Q232 19 232 29V32Q232 42 243 42H260Q287 42 287 69V73Q287 100 260 100H216Q211 100 211 95V86Q211 81 216 81H257Q267 81 267 71V69Q267 59 257 59H239Q212 59 212 33V27Q212 0 239 0Z" /></g></g></svg><text x="28" y="132" fill="#E9F4E8" font-family="Arial, Helvetica, sans-serif" font-size="50" font-weight="700" letter-spacing="-2">This could</text><text x="28" y="189" fill="#7ADEAD" font-family="Arial, Helvetica, sans-serif" font-size="50" font-weight="700" letter-spacing="-2">be easier.</text><text x="30" y="222" fill="#ADC4B3" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="400" >A good place to start.</text><g transform="translate(39 246) scale(0.88)">
+ <rect x="0" y="0" width="398" height="280" rx="16" fill="url(#dots)"/>
+ <path d="M29 99 C-1 72 66 39 65 87 S15 143 40 117 S91 104 70 137 S19 174 46 183" fill="none" stroke="#ADC4B3" stroke-width="3" stroke-linecap="round"/>
+ <path d="M58 180 C117 209 108 119 151 125" fill="none" stroke="#7ADEAD" stroke-width="3" stroke-linecap="round"/>
+ <path d="m141 117 12 9-12 6" fill="none" stroke="#7ADEAD" stroke-width="3" stroke-linejoin="round"/>
+ <g transform="rotate(-5 253 130)">
+ <path d="M174 22 H335 L367 54 V232 Q367 244 355 244 H174 Q162 244 162 232 V34 Q162 22 174 22Z" fill="#244334" transform="translate(6 8)"/>
+ <path d="M174 22 H335 L367 54 V232 Q367 244 355 244 H174 Q162 244 162 232 V34 Q162 22 174 22Z" fill="#192E25" stroke="#3E604C" stroke-width="2"/>
+ <path d="M335 22 V54 H367" fill="#244334" stroke="#3E604C" stroke-width="2"/>
+ <path d="M186 68 H286 M186 82 H249" stroke="#3E604C" stroke-width="5" stroke-linecap="round"/>
+ <rect x="187" y="105" width="112" height="99" rx="12" fill="#244334"/>
+ <path d="m216 135-13 13 13 13 m36-26 13 13-13 13 m-14-23-9 33" stroke="#7ADEAD" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+ <rect x="187" y="219" width="50" height="4" rx="2" fill="#ADC4B3"/>
+ </g>
+ <g transform="rotate(7 321 202)">
+ <rect x="288" y="131" width="90" height="143" rx="16" fill="#192E25" stroke="#7ADEAD" stroke-width="3"/>
+ <path d="M317 142h29" stroke="#3E604C" stroke-width="3" stroke-linecap="round"/>
+ <rect x="301" y="162" width="64" height="59" rx="10" fill="#7ADEAD"/>
+ <path d="m318 191 10 10 20-23" stroke="#101F19" stroke-width="5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+ <path d="M304 236h56 M304 248h35" stroke="#3E604C" stroke-width="4" stroke-linecap="round"/>
+ </g>
+ <rect class="last-piece" x="107" y="53" width="21" height="21" rx="5" fill="#E6C35F" transform="rotate(14 117 63)"/>
+ <path d="M90 229h32 m-16-16v32" stroke="#7ADEAD" stroke-width="2"/>
+ <circle cx="385" cy="88" r="4" fill="#E6C35F"/>
+ </g>
+</svg>
